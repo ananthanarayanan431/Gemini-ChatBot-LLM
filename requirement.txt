@@ -1,7 +1,3 @@
-streamlit
-PyPDF2
-google.generativeai
-python-dotenv
-langchain
-openai
-tiktoken
+streamlit==1.30.0
+google-generativeai==0.3.2
+python-dotenv==1.0.1
